@@ -1,0 +1,10 @@
+2-12-18 Getting an error:
+ Failed with error: unable to access 'https://github.com/stcline/Team_Repo_1.0.git/': The requested URL returned error: 403
+Seems like this may have something to do with my ability to write to the repo.
+Need to figure out the best org structure:
+WizardsRobotics
+    stcline (owner) - connected via git on my laptop
+        Teams
+            Programmers on each team - connected via git on their laptops
+
+Make a master repo with a module for each team and a Team Master module for me.
